@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Humayra Noureen</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
-<img align="center" alt="Coding" width="400" src="" 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=humayra24&label=Profile%20views&color=0e75b6&style=flat" alt="humayra24" /> </p>
